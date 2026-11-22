@@ -1,6 +1,6 @@
 # Prompt pack
 
-Short prompts for ChatGPT, Gemini, Copilot or any assistant that does not read skill folders. Paste one as your first message, then answer its questions. For the full procedure, paste the matching `SKILL.md` instead.
+Short prompts for ChatGPT, Gemini, Copilot or any assistant that does not read skill folders. Paste one as your first message, then answer its questions. For the full procedure, paste the matching `SKILL.md` instead. Each prompt also has its own page with a copy button: https://topmoller.com/tools/ai-sales-skills/
 
 Every prompt keeps the same rules: you write first and the assistant challenges; "confirmed" means the right person at the customer agreed to a playback or recap, or acted; the assistant never moves a stage or a forecast category; anything not discussed stays empty.
 

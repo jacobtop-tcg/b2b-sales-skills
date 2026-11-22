@@ -51,6 +51,7 @@ ChatGPT, Gemini, Copilot: paste a prompt from [PROMPTS.md](PROMPTS.md), or the b
 
 ## Related
 
+- Every skill as a web page with a copy button: [AI sales skills and prompts](https://topmoller.com/tools/ai-sales-skills/). Practise the forecast categories in the [sales forecast game](https://topmoller.com/tools/sales-forecast-game/).
 - [sales-engineering-skills](https://github.com/jacobtop-tcg/sales-engineering-skills): skills for sales engineers, including proof of value plans, business value assessment interviews and mutual action plans.
 - Free tools in the browser: the [champion test](https://topmoller.com/tools/champion-test/), the [sales follow-up email](https://topmoller.com/tools/sales-follow-up-email/) and the [sales pipeline calculator](https://topmoller.com/tools/sales-pipeline-calculator/).
 - Articles: https://topmoller.com/articles/
