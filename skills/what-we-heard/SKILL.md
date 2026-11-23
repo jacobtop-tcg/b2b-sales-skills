@@ -21,7 +21,7 @@ The recap is the cheapest way to move a letter from relayed to confirmed. If the
 
 1. Ask for the notes or the debrief, the names on the invite, and the next step that was agreed. Ask the seller to say first, in two or three lines, what they heard as the customer's main problem and what it costs. Write that down as theirs, then draft, and say where the notes differ. A transcript alone does not replace it.
 2. Fill the template below.
-3. Point out which sections were thin, so the seller knows what to ask about next time. Keep everything outside the mail to a few short lines, and do not explain the evidence ladder.
+3. Point out which sections were thin, so the seller knows what to ask about next time. Keep everything outside the mail to a few short lines, and do not explain the method.
 
 ## The mail
 

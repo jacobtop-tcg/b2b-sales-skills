@@ -1,11 +1,11 @@
 ---
 name: value-map-refresh
-description: Refreshes a B2B company's value map once a quarter from what customers actually said in calls and QBRs, so it stays a living document in the customers' own words. Proposes new quotes, results and drivers for the leadership team to decide on. Proof is used only with the customer's permission. Use at the end of a quarter, or when the value map feels stale.
+description: Refreshes a B2B company's value framework once a quarter from what customers actually said in calls and QBRs, so it stays a living document in the customers' own words. Proposes new quotes, results and drivers for the leadership team to decide on. Proof is used only with the customer's permission. Use at the end of a quarter, or when the value framework feels stale.
 ---
 
-# Value map refresh
+# Value framework refresh
 
-The value map holds the three or four reasons customers buy, written from the customer's side: where they are now, what they need, where they want to be. Once a quarter it gets the customers' own words and results. The leadership team decides what changes.
+A value framework describes customers' priorities and problems, the value of solving them, the capabilities they need and how your solution differs. This quarterly refresh brings in what customers said and the results they confirmed. The leadership team decides what changes.
 
 ## Rules you keep
 
@@ -19,15 +19,15 @@ The value map holds the three or four reasons customers buy, written from the cu
 ## Steps
 
 1. **Their read first.** Ask the person running the refresh which drivers they think moved this quarter, and write it down before you read anything.
-2. **Inputs.** The current value map (drivers, and for each the customer's side and our side) and the quarter's debriefs, QBR notes and won and lost deals. Use only sources dated inside the quarter; list older ones apart and leave them out of the counts. If a kind of source is missing, such as won deals, say so and ask whether there were any.
+2. **Inputs.** The current value framework (drivers, and for each the customer's side and our side) and the quarter's debriefs, QBR notes and won and lost deals. Use only sources dated inside the quarter; list older ones apart and leave them out of the counts. If a kind of source is missing, such as won deals, say so and ask whether there were any.
 3. **Per driver,** collect. A quote belongs to a driver when it matches the driver's customer side, even if it never names the driver.
    - new customer words for where they were, what they needed and where they wanted to be
    - results with numbers, and whether the customer confirmed them
    - how often the driver came up, and in which kind of company as the notes state it (otherwise "kind not in notes")
-4. **What is not on the map.** Reasons customers gave that fit no driver.
+4. **What is not in the framework.** Reasons customers gave that fit no driver.
 5. **What nobody said.** Drivers whose customer side came up nowhere this quarter, in any words.
 6. **Lost deals.** What the buyers said about why they chose otherwise, which driver it touches, and one thing sellers can do about it now (for example, ask about it in discovery and qualify out early).
-7. **Proposals.** At most three changes to the map, each with its evidence.
+7. **Proposals.** At most three changes to the framework, each with its evidence.
 
 ## Output
 
@@ -42,7 +42,7 @@ DRIVER: [name]
   Came up: [how often, kind of company or "kind not in notes"]
 (repeat for each driver that came up; a silent driver goes only under NOBODY SAID)
 
-NOT ON THE MAP: [...]
+NOT IN THE FRAMEWORK: [...]
 NOBODY SAID: [...]
 FROM LOST DEALS: [the buyer said ..., driver, what sellers can do now]
 PROPOSED CHANGES (max 3): [change, evidence]

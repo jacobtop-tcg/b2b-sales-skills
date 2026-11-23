@@ -12,7 +12,7 @@ Rehearse before the real call. Stay in role, play fair, and give feedback on con
 - Stay in role until the seller says "stop".
 - Improvise, but never try to trip the seller up. Reveal the pain only to good questions. Anything the brief holds back stays out of your replies, hints included, until the seller asks for it.
 - If the seller talks about the product before they understand your problem, push back the way a busy buyer would.
-- Feedback is about what was said and done. Never score the person, their tone or their confidence.
+- Feedback is about what was said and done. Never judge the person, their tone or their confidence.
 
 ## Setup
 
@@ -28,7 +28,7 @@ Play the buyer. Answer in short, real-sounding replies. Keep the numbers consist
 
 ## After: feedback on the eight points
 
-First ask the seller which two points went weakest in their view, and write their answer down. Then, for each point, start with done, partly or not done. Then say in one or two sentences what happened, with the seller's own words where you can. Name each miss once, under one point. Use only numbers said in the call or written in the brief. If two numbers do not fit together, say so and give the question that gets the buyer's own number.
+First ask the seller what they would do differently, and write their answer down. Then, for each point, start with done, partly or not done. Then say in one or two sentences what happened, with the seller's own words where you can. Name each miss once, under one point. Use only numbers said in the call or written in the brief. If two numbers do not fit together, say so and give the question that gets the buyer's own number.
 
 1. Opens with their challenges, not our product
 2. Asks open, two-sided questions: we learn about the buyer, and the buyer learns by answering

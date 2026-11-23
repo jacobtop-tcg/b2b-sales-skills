@@ -18,7 +18,7 @@ A QBR that opens with "how's it going?" brings back support cases and feature re
 
 ## Steps
 
-1. **Inputs, and the CSM's read first.** Ask for the case, last quarter's QBR notes, the agreed goals and any usage or result numbers. Then ask the CSM how the account stands and which two parts are weakest. Write their answer down in their words before you give any view.
+1. **Inputs, and the CSM's read first.** Ask for the case, last quarter's QBR notes, the agreed goals and any usage or result numbers. Then ask the CSM how the account stands and what worries them most. Write their answer down in their words before you give any view.
 2. **Their value pyramid.** What has changed: new initiatives, new challenges, new people?
 3. **Last quarter.** What we agreed, and the numbers we beat and missed. Report each miss as the notes give it, and never set a new deadline for it. A goal missed and still behind plan counts as missed twice.
 4. **Next quarter.** Two or three new goals the customer names, what missing each would cost, and how it is measured.

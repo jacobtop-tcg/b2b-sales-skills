@@ -1,8 +1,8 @@
 # b2b-sales-skills
 
-Nine Agent Skills for Claude and Codex, written for B2B sales teams that qualify deals with MEDDPICC: sellers, sales engineers, sales leaders and customer success. They prepare meetings, write debriefs and recaps, review deals, suggest forecast categories, test champions, prepare QBRs and keep the value map current.
+Nine Agent Skills for Claude and Codex, written for B2B sales teams that qualify deals with MEDDPICC: sellers, sales engineers, sales leaders and customer success. They prepare meetings, write debriefs and recaps, review deals, suggest forecast categories, test champions, prepare QBRs and keep the value framework current.
 
-They all work the same way: AI drafts and people decide. The seller writes first and the AI challenges. "Confirmed" means the right person at the customer agreed to a playback or recap, or acted, with the moment to show for it. The AI never moves a deal's stage or forecast category, and anything not discussed stays empty.
+They all work the same way: AI drafts and people decide. The seller writes first and the AI challenges. There are no scores: MEDDPICC is the team's language for how the customer decides. "Confirmed" means the right person at the customer agreed to a playback or recap, or acted, with the moment to show for it. The AI never moves a deal's stage or forecast category, and anything not discussed stays empty.
 
 The skills use the SKILL.md format read by Claude Code, Claude.ai and Codex: one folder per skill, with YAML frontmatter (`name`, `description`) followed by instructions. For other assistants, use the [prompt pack](PROMPTS.md).
 
@@ -10,17 +10,17 @@ The skills use the SKILL.md format read by Claude Code, Claude.ai and Codex: one
 
 | When | Skill | What it does |
 |---|---|---|
-| Before a customer meeting | [meeting-prep](skills/meeting-prep/SKILL.md) | You write your 3 whys first; it challenges them, shows what you know per letter and proposes three questions and the ask. |
-| The same day | [call-debrief](skills/call-debrief/SKILL.md) | Drafts the evidence per letter in the customer's words, what both sides promised and the next step, for your sign-off. |
+| Before a customer meeting | [meeting-prep](skills/meeting-prep/SKILL.md) | You write your 3 whys first; it challenges them, shows what you know and what you guess about how they decide, and proposes the questions that test it. |
+| The same day | [call-debrief](skills/call-debrief/SKILL.md) | Reflect on a customer meeting the same day: three things you did well, three to do better, three things you learned about the customer's decision, and three you still need to get in place. |
 | The same day | [what-we-heard](skills/what-we-heard/SKILL.md) | Drafts the recap mail the customer can correct. You send it. |
-| The weekly 1:1 | [deal-review](skills/deal-review/SKILL.md) | Scores each letter with the moment behind it, finds the two weakest and asks the questions that test them. |
+| The weekly 1:1 | [deal-review](skills/deal-review/SKILL.md) | Tells the deal from the customer's side, keeps what you know apart from what you guess, and asks the questions that help the seller think. |
 | Friday forecast | [forecast-category](skills/forecast-category/SKILL.md) | Suggests commit, upside, future or black hole from the evidence, and what would move it. |
 | Before a proof of value or a forecast call | [champion-check](skills/champion-check/SKILL.md) | Separates actions from promises and proposes the next small ask with a date. |
 | Before practice or a big call | [buyer-roleplay](skills/buyer-roleplay/SKILL.md) | Plays the buyer, then gives feedback on eight points. |
 | Before a QBR | [qbr-prep](skills/qbr-prep/SKILL.md) | Opens with the customer's value pyramid and ends with goals that state what missing them would cost. |
-| Each quarter | [value-map-refresh](skills/value-map-refresh/SKILL.md) | Brings the customers' own words and results into the value map for the leadership team to decide on. |
+| Each quarter | [value-map-refresh](skills/value-map-refresh/SKILL.md) | Brings the customers' own words and results into the value framework for the leadership team to decide on. |
 
-The method behind them fits on one page: [METHOD.md](METHOD.md). It covers the evidence ladder (not asked, assumed, relayed, confirmed), the eight MEDDPICC letters, the stages and their exits, and the forecast categories.
+The method behind them fits on one page: [METHOD.md](METHOD.md). It covers how to keep what you know apart from what you guess, champion and coach, the eight MEDDPICC parts, the stages and their exits, and the forecast categories.
 
 ## Install
 
