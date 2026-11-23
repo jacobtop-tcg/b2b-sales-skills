@@ -40,10 +40,10 @@ Background:
 Challenges:
 - [the challenges and what they cost the business]
 
-Positive business outcomes:
+Business outcomes:
 - [what good looks like for them; we will spend more time here next time]
 
-Minimum required capabilities:
+The capabilities they need:
 - [what any solution must do]
 
 Reverse timeline:

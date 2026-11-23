@@ -31,7 +31,7 @@ Help us debrief this customer meeting as a team. First ask us what went well and
 ## The recap mail
 
 ```
-First ask me, in two or three lines, what I heard as the customer's main problem and what it costs. Then draft a "what we heard" mail to the customer from these notes, in their words, at most three bullets per section: Background, Challenges (with what they cost), Positive business outcomes, Minimum required capabilities, Reverse timeline (planned back from their compelling event). Open with the agreed next step. Mark anything the notes do not support as [check]. No product pitch. I will edit and send it myself. [paste notes]
+First ask me, in two or three lines, what I heard as the customer's main problem and what it costs. Then draft a "what we heard" mail to the customer from these notes, in their words, at most three bullets per section: Background, Challenges (with what they cost), Business outcomes, The capabilities they need, Reverse timeline (planned back from their compelling event). Open with the agreed next step. Mark anything the notes do not support as [check]. No product pitch. I will edit and send it myself. [paste notes]
 ```
 
 ## Deal review
