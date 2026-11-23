@@ -4,6 +4,18 @@ Short prompts for ChatGPT, Gemini, Copilot or any assistant that does not read s
 
 Every prompt keeps the same rules: you write first and the assistant challenges; there are no scores; "confirmed" means the right person at the customer agreed to a playback or recap, or acted; the assistant never moves a stage or a forecast category; anything not discussed stays empty.
 
+## Pre-call plan
+
+```
+Prepare me for a first meeting with [company] ([website]). I am meeting [name, role]. We sell [one line]. Our customer story: [one customer like them, one number before and after]. Use public sources only, and give the link for every fact.
+1. The company in two lines, from its own about page.
+2. What happened in the last six months: news, an interview with one of their leaders, and what their latest annual report says about [our words].
+3. The person I meet: role, time in it, promotions, results they have shared, and the roles around them. Mark what suggests power and influence as a guess.
+4. What connects us: past customers, shared contacts, places or groups.
+5. For why change, why now and why us: what the research suggests, with sources. Then ask me to write my own 3 whys, and wait.
+Then draft three questions that test my 3 whys, with who asks each (the Sales Engineer asks what the problem costs today), and a 30-second opening built on our customer story. End with what the meeting should leave us with: the problem in their words, whether they could be a champion, and a next step with a date. Invent nothing.
+```
+
 ## Before a meeting
 
 ```

@@ -1,6 +1,6 @@
 # b2b-sales-skills
 
-Nine Agent Skills for Claude and Codex, written for B2B sales teams that qualify deals with MEDDPICC: sellers, sales engineers, sales leaders and customer success. They prepare meetings, write debriefs and recaps, review deals, suggest forecast categories, test champions, prepare QBRs and keep the value framework current.
+Ten Agent Skills for Claude and Codex, written for B2B sales teams that qualify deals with MEDDPICC: sellers, sales engineers, sales leaders and customer success. They prepare meetings, write debriefs and recaps, review deals, suggest forecast categories, test champions, prepare QBRs and keep the value framework current.
 
 They all work the same way: AI drafts and people decide. The seller writes first and the AI challenges. There are no scores: MEDDPICC is the team's language for how the customer decides. "Confirmed" means the right person at the customer agreed to a playback or recap, or acted, with the moment to show for it. The AI never moves a deal's stage or forecast category, and anything not discussed stays empty.
 
@@ -10,6 +10,7 @@ The skills use the SKILL.md format read by Claude Code, Claude.ai and Codex: one
 
 | When | Skill | What it does |
 |---|---|---|
+| Before a first meeting | [pre-call-plan](skills/pre-call-plan/SKILL.md) | Does the fifteen minutes of research, with a source for every fact, then helps you write the 3 whys, the questions that test them and a 30-second opening. |
 | Before a customer meeting | [meeting-prep](skills/meeting-prep/SKILL.md) | You write your 3 whys first; it challenges them, shows what you know and what you guess about how they decide, and proposes the questions that test it. |
 | The same day | [call-debrief](skills/call-debrief/SKILL.md) | Reflect on a customer meeting the same day: three things you did well, three to do better, three things you learned about the customer's decision, and three you still need to get in place. |
 | The same day | [what-we-heard](skills/what-we-heard/SKILL.md) | Drafts the recap mail the customer can correct. You send it. |
