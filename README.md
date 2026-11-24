@@ -17,7 +17,7 @@ The skills use the SKILL.md format read by Claude Code, Claude.ai and Codex: one
 | The weekly 1:1 | [deal-review](skills/deal-review/SKILL.md) | Tells the deal from the customer's side, keeps what you know apart from what you guess, and asks the questions that help the seller think. |
 | Friday forecast | [forecast-category](skills/forecast-category/SKILL.md) | Suggests commit, upside, future or black hole from the evidence, and what would move it. |
 | Before a proof of value or a forecast call | [champion-check](skills/champion-check/SKILL.md) | Separates actions from promises and proposes the next small ask with a date. |
-| Before practice or a big call | [buyer-roleplay](skills/buyer-roleplay/SKILL.md) | Plays the buyer, then gives feedback on eight points. |
+| Before practice or a big call | [buyer-roleplay](skills/buyer-roleplay/SKILL.md) | Plays the buyer, then gives three things that went well and three to do better. |
 | Before a QBR | [qbr-prep](skills/qbr-prep/SKILL.md) | Opens with the customer's value pyramid and ends with goals that state what missing them would cost. |
 | Each quarter | [value-map-refresh](skills/value-map-refresh/SKILL.md) | Brings the customers' own words and results into the value framework for the leadership team to decide on. |
 

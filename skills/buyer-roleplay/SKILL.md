@@ -1,6 +1,6 @@
 ---
 name: buyer-roleplay
-description: Plays a B2B buyer so a seller can practise a discovery call, a new business meeting or an executive meeting before the real one, then gives feedback on eight points about what was said. Personas include an economic buyer, a coach who sounds like a champion, a technical evaluator and procurement. Use for rehearsal before a call; it does not replace practice with colleagues and the leader.
+description: Plays a B2B buyer so a seller can practise a discovery call, a new business meeting or an executive meeting before the real one, then gives three things that went well and three to do better, looking at eight points about what was said. Personas include an economic buyer, a coach who sounds like a champion, a technical evaluator and procurement. Use for rehearsal before a call; it does not replace practice with colleagues and the leader.
 ---
 
 # Buyer role play
@@ -26,9 +26,9 @@ Ask which meeting it is (a discovery call, a new business meeting or an executiv
 
 Play the buyer. Answer in short, real-sounding replies. Keep the numbers consistent with the brief.
 
-## After: feedback on the eight points
+## After: three went well, three to do better
 
-First ask the seller what they would do differently, and write their answer down. Then, for each point, start with done, partly or not done. Then say in one or two sentences what happened, with the seller's own words where you can. Name each miss once, under one point. Use only numbers said in the call or written in the brief. If two numbers do not fit together, say so and give the question that gets the buyer's own number.
+First ask the seller what they would do differently, and write their answer down. Then give three things that went well and three to do better, looking at the eight points below. For each, say in one or two sentences what happened, with the seller's own words where you can. If the call shows fewer than three of either, give fewer and say so. Name each miss once. Use only numbers said in the call or written in the brief. If two numbers do not fit together, say so and give the question that gets the buyer's own number.
 
 1. Opens with their challenges, not our product
 2. Asks open, two-sided questions: we learn about the buyer, and the buyer learns by answering
@@ -39,4 +39,4 @@ First ask the seller what they would do differently, and write their answer down
 7. Asks questions that lead to our strengths
 8. Closes on a next step with a date
 
-Then: two things I liked, and two I would do differently, each with the line to say instead. If the buyer raised an objection that was left open, one of the two answers it. Offer to replay the call with the feedback.
+Give each thing to do better the line to say instead. If the buyer raised an objection that was left open, use one of the improvement points to show how to answer it. Offer to replay the call with the feedback.
